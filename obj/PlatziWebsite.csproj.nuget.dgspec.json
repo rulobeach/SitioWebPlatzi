@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rulobeach\\Web Apps\\PlatziWebsite\\PlatziWebsite.csproj": {}
+    "C:\\Users\\Rulobeach\\Web Apps\\SitioWebPlatzi\\PlatziWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rulobeach\\Web Apps\\PlatziWebsite\\PlatziWebsite.csproj": {
+    "C:\\Users\\Rulobeach\\Web Apps\\SitioWebPlatzi\\PlatziWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rulobeach\\Web Apps\\PlatziWebsite\\PlatziWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\Rulobeach\\Web Apps\\SitioWebPlatzi\\PlatziWebsite.csproj",
         "projectName": "PlatziWebsite",
-        "projectPath": "C:\\Users\\Rulobeach\\Web Apps\\PlatziWebsite\\PlatziWebsite.csproj",
+        "projectPath": "C:\\Users\\Rulobeach\\Web Apps\\SitioWebPlatzi\\PlatziWebsite.csproj",
         "packagesPath": "C:\\Users\\Rulobeach\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rulobeach\\Web Apps\\PlatziWebsite\\obj\\",
+        "outputPath": "C:\\Users\\Rulobeach\\Web Apps\\SitioWebPlatzi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rulobeach\\AppData\\Roaming\\NuGet\\NuGet.Config",
